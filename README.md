@@ -18,7 +18,8 @@ The small changes in scores did not affect the overall school ranking. Thomas Hi
 		Since the tainted data was limited to a single grade in a single school, the only only change seen was that no data provided for 9th grade at Thomas High. 
 	- Scores by School Spending<p>
 		There was no reportable change in scores by school spending when using the modified data.<p>[Original Scores by School Spending   /](Screenshots/Original_Scores_By_Spending.png)  [  Modified Scores by School Spending](Screenshots/Modified_Scores_By_Spending.png)
-	- Scores by School Size
+	- Scores by School Size<p>
 		There was no reportable change in scores by school size when using the modified data.
-	- Scores by School Type
+	- Scores by School Type<p>
+		There was no reportable change in scores by school type.
 ## Summary
