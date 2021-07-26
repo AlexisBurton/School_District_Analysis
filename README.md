@@ -7,6 +7,6 @@ Additionally, after being notified of possible academic dishonesty in an isolate
 ## Results
 Overall, the tainted data seems to have had little effect over the results. The changes are summarized below. 
 - District Summary
-	The tainted data represented roughly 1% of the total data, so it is little surprise that its removal produced negligible change. Four of the five reporting points did not have enough of a change to be reflected in reporting format, and the one that did change, Average Math Score, only dropped by one tenth of a point. [Original District Analysis](Resources/Original_District_Analysis)
+	The tainted data represented roughly 1% of the total data, so it is little surprise that its removal produced negligible change. Four of the five reporting points did not have enough of a change to be reflected in reporting format, and the one that did change, Average Math Score, only dropped by one tenth of a point. [Original District Analysis](Resources/Original_District_Analysis.png)
 - School Summary
 - Relative Performance
